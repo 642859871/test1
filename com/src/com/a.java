@@ -1,6 +1,6 @@
 package com;
 
 public class a {
-	private String a;
+	private String abc;
 
 }
